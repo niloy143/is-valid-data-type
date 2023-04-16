@@ -1,0 +1,26 @@
+{
+  "name": "is-valid-data-type",
+  "version": "1.0.0",
+  "description": "data type checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niloy143/is-valid-data-type.git"
+  },
+  "keywords": [
+    "data",
+    "type",
+    "checker",
+    "data",
+    "type"
+  ],
+  "author": "Niloy Mahmud Apu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niloy143/is-valid-data-type/issues"
+  },
+  "homepage": "https://github.com/niloy143/is-valid-data-type#readme"
+}
